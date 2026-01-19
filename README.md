@@ -4,7 +4,7 @@
 </p>
 
 ## Sobre mí <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9uNzlhN2k4c2I4MTQxYmc1aGt6MWs1OTVrZnZqdWloZmt4aXpuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/20HHL9gfk3MoP8JAIp/giphy.gif" width="60" align="center" style="display: inline; margin-left: 10px;"/>
-- Próxima a graduarme en Ingeniería en Computación.
+- Ingeniería en Computación.
 - Ayudante de Programación 2, Conceptos de Algoritmos, Datos y Programas y Taller de Programación de la Facultad de Informática.
 - Desarrolladora Backend en Minjus y ddhh .
 - Aprendiendo un poquito más del mundo Frontend ✨⚡.
